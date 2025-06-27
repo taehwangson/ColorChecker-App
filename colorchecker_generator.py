@@ -11,6 +11,7 @@ Features:
 - It requires excel data (ColorChecker_RGB_and_spectra.xlsx) from https://babelcolor.com/colorchecker-2.htm#CCP2_data
 
 Author: Taehwang Son
+Updated 2025. 07. 27.
 """
 
 
